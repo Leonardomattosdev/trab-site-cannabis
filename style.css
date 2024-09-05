@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.title {
+  font-family: "Castoro Titling", cursive;
+  text-align: center;
+  color: white;
+}
+
+.start {
+  font-family: "Montserrat", cursive;
+  padding-top: 30px;
+  font-size: 20px;
+  color: white;
+  width: 100%;
+  margin-left: 10px;
+}
+
+.article {
+  font-family: "Castoro Titling", cursive;
+  font-size: 40px;
+  text-align: center;
+  color: white;
+  padding-top: 50px;
+}
+
+.list {
+  font-family: "Open Sans", cursive;
+  width: 100%;
+  max-width: 900px;
+  font-size: 30px;
+  line-height: 45px;
+  margin-left: 700px;
+  color: white;
+}
+
+.container {
+  margin: 0px auto 0px auto;
+  width: 100%;
+  height: 100%;
+  min-height: 100vh;
+  background-image: url(maconha.jpg);
+}
+
+.group {
+  color: white;
+  font-size: 90px;
+  text-align: center;
+  font-family: "Sedgwick Ave Display", cursive;
+  padding: 160px;
+  font-style: italic;
+}
+
+a:any-link {
+  color: white;
+  font-family: "Roboto";
+  transition: 0.4s;
+  cursor: pointer;
+}
+
+a:hover {
+  color: green;
+}

@@ -1,0 +1,85 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  background-color: rgb(95, 141, 95);
+  display: flex;
+  align-items: center;
+  padding: 10px 190px;
+  border: 2px solid black;
+}
+
+.logo {
+  width: 40px;
+}
+
+.group {
+  font-family: "Sedgwick Ave Display", cursive;
+}
+
+.title {
+  font-size: 45px;
+  font-family: "Castoro Titling", cursive;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.container {
+  background-image: url(planodefundo4.avif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+}
+
+.imagem {
+  display: block;
+  margin: 0px auto;
+  border: 4px solid black;
+  border-radius: 15%;
+  width: 800px;
+}
+
+.motivo1 {
+  font-size: 30px;
+  font-family: "Montserrat", cursive;
+  padding: 20px 400px 150px 400px;
+  color: rgb(0, 0, 0);
+}
+
+.motivo2 {
+  font-size: 30px;
+  font-family: "Montserrat", cursive;
+  padding: 10px 400px 150px 400px;
+  color: rgb(0, 0, 0);
+}
+
+.motivo3 {
+  font-size: 30px;
+  font-family: "Montserrat", cursive;
+  padding: 10px 400px 150px 400px;
+  color: rgb(0, 0, 0);
+}
+
+.motivo4 {
+  font-size: 30px;
+  font-family: "Montserrat", cursive;
+  padding: 10px 400px 150px 400px;
+  color: rgb(0, 0, 0);
+}
+
+.motivo5 {
+  font-size: 30px;
+  font-family: "Montserrat", cursive;
+  padding: 10px 400px 150px 400px;
+  color: rgb(0, 0, 0);
+}
+
+.motivo6 {
+  font-size: 30px;
+  font-family: "Montserrat", cursive;
+  padding: 10px 400px 150px 400px;
+  color: rgb(0, 0, 0);
+}
